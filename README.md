@@ -1,13 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/ayan-d-ab4870137/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <a href="https://twitter.com/Advin4603">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
 </div>
 
 
