@@ -12,13 +12,15 @@ I am a student at IIIT Hyderabad pursuing a dual degree in Computational Linguis
   
 <h3>My Areas of Interest</h3>
   
- - Computational Linguistics and NLP
- - Web and App Development
- - AI and ML
+ - Computational Vision and NLP
+ - Deep Learning methods to solve real world problems
 
   
   <h3> Languages and Tools</h3>
   <div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50rem" title="pytorch" alt="pytorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50rem" title="pytorch" alt="pytorch" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="50rem" title="python" alt="python" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" width="50rem" title="bash" alt="bash" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="50rem" title="c" alt="c" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="50rem" title="cplusplus" alt="cplusplus" />
@@ -27,17 +29,15 @@ I am a student at IIIT Hyderabad pursuing a dual degree in Computational Linguis
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="50rem" title="html5" alt="html5/html" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="50rem" title="javascript" alt="javascript" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" width="50rem" title="mysql" alt="mysql" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="50rem" title="python" alt="python" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="50rem" title="react" alt="react" />
 
   
   </div>
 
-  <h3>I am learning -</h3>
+  <h3>I am learning: </h3>
   
-  - [React Native](https://reactnative.dev/)
-  - [django](https://www.djangoproject.com/)
-  - Deep Learning and Machine Learning 
+  - [Stanford's Deep learning in computer vision(cs231n)](https://cs231n.github.io/)
+  - [Math in ML](https://mml-book.github.io/)
   
   
 <!--
